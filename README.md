@@ -2,7 +2,7 @@
 
 Is a magic 8 ball app. Just ask it a question and then tap the ball to get your answer
 
-![alt text](https://github.com/Lincxx//Flutter-Magic-8/blob/master/images/magic-8.png)
+![alt text](https://github.com/Lincxx/Flutter-Magic-8/blob/master/images/magic-8.png)
 
 ## Getting Started
 
